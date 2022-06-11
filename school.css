@@ -41,9 +41,6 @@ a .hover:hover{
 .current{
     color:rgb(98, 98, 226) ;
 }
-.translate:hover{
-    transform:scaleX(2rem);
-}
 .main{
     font-weight: 500;
     font-size: small;
