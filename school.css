@@ -1,8 +1,8 @@
 .about{
-    width: 15%;
+    width: 18%;
 }
 .info{
-    width: 84%;
+    width: 80%;
 }
 .border.{
 border-radius: 50%;
@@ -12,10 +12,41 @@ width: 25px;
     height: 30px;
     margin-right:15px;
 }
+.logo{
+    text-align: center;
+}
+.right-1{
+    margin-left: 3rem;
+}
+.right-2{
+    margin-left: 2.5rem;
+}
+.right-3{
+    margin-left: 4.2rem;
+}
+.right-4{
+    margin-left: 3rem;
+}
+.fa-angle-right{
+    color: black;
+}
 .links{
     width: 47%;
     border-radius:5px ;
     height: 65vh;
+}
+a .hover:hover{
+    color: rgb(115, 115, 232);
+}
+.current{
+    color:rgb(98, 98, 226) ;
+}
+.translate:hover{
+    transform:scaleX(2rem);
+}
+.main{
+    font-weight: 500;
+    font-size: small;
 }
 .details{
     width: 47%;
@@ -40,4 +71,10 @@ h6{
 }
 .hover{
     color:black;
+}
+a{
+    text-decoration: none;
+}
+.icon{
+        color:rgb(152, 152, 239) ;
 }
